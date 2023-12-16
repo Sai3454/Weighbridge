@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaybridgeSoftware", "WaybridgeSoftware.csproj", "{B328B385-D669-4FEB-B7C7-43B76DB7CD38}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "WaybridgeAppSetup", "..\WaybridgeAppSetup\WaybridgeAppSetup.vdproj", "{EECF7006-04FE-4654-9D95-124C6E89B691}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B328B385-D669-4FEB-B7C7-43B76DB7CD38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B328B385-D669-4FEB-B7C7-43B76DB7CD38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B328B385-D669-4FEB-B7C7-43B76DB7CD38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B328B385-D669-4FEB-B7C7-43B76DB7CD38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EECF7006-04FE-4654-9D95-124C6E89B691}.Debug|Any CPU.ActiveCfg = Debug
+		{EECF7006-04FE-4654-9D95-124C6E89B691}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98D9CC77-87BE-4540-AF78-8BF6B8408EEF}
+	EndGlobalSection
+EndGlobal
